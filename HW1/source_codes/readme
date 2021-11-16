@@ -1,0 +1,22 @@
+README for source codes of homework 1
+
+-- How to compile my program
+I have made a Makefile for you. Please use the following command to generate the execution files for question (b), (c) and (d).
+    
+$ make
+
+If you want to remove the execution files, please use the following command.
+
+$ make clean
+
+-- How to execute my program
+Please use the following commands to execute each program.
+
+For question (B)
+$ ./b
+
+For question (C)
+$ ./c
+
+For question (D)
+$ ./d
